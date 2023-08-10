@@ -1,0 +1,129 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hormone-replacement-drugs-oestroge---primary.py
+inputModule3:
+  class: File
+  path: python/hormone-replacement-drugs-progesterone---primary.py
+inputModule4:
+  class: File
+  path: python/hormone-replacement-drugs-projuven---primary.py
+inputModule5:
+  class: File
+  path: python/hormone-replacement-drugs-015mg---primary.py
+inputModule6:
+  class: File
+  path: python/hormone-replacement-drugs-20microgram---primary.py
+inputModule7:
+  class: File
+  path: python/hormone-replacement-drugs-femtab---primary.py
+inputModule8:
+  class: File
+  path: python/hormone-replacement-drugs-hemihydrate---primary.py
+inputModule9:
+  class: File
+  path: python/hormone-replacement-drugs-100mg---primary.py
+inputModule10:
+  class: File
+  path: python/hormone-replacement-drugs-sequi---primary.py
+inputModule11:
+  class: File
+  path: python/hormone-replacement-drugs-nuvelle---primary.py
+inputModule12:
+  class: File
+  path: python/hormone-replacement-drugs-ethinylestradiol---primary.py
+inputModule13:
+  class: File
+  path: python/hormone-replacement-drugs-125mg---primary.py
+inputModule14:
+  class: File
+  path: python/hormone-replacement-drugs-implant---primary.py
+inputModule15:
+  class: File
+  path: python/continuous-hormone-replacement-drugs---primary.py
+inputModule16:
+  class: File
+  path: python/hormone-replacement-drugs-cycloprogynova---primary.py
+inputModule17:
+  class: File
+  path: python/hormone-replacement-drugs-80mcg---primary.py
+inputModule18:
+  class: File
+  path: python/hormone-replacement-drugs-100mcg---primary.py
+inputModule19:
+  class: File
+  path: python/hormone-replacement-drugs-2microgram---primary.py
+inputModule20:
+  class: File
+  path: python/hormone-replacement-drugs-benztrone---primary.py
+inputModule21:
+  class: File
+  path: python/hormone-replacement-drugs-organon---primary.py
+inputModule22:
+  class: File
+  path: python/hormone-replacement-drugs-climagest---primary.py
+inputModule23:
+  class: File
+  path: python/hormone-replacement-drugs-zumenon---primary.py
+inputModule24:
+  class: File
+  path: python/hormone-replacement-drugs-treatment---primary.py
+inputModule25:
+  class: File
+  path: python/hormone-replacement-drugs-patch---primary.py
+inputModule26:
+  class: File
+  path: python/hormone-replacement-drugs-trisequens---primary.py
+inputModule27:
+  class: File
+  path: python/hormone-replacement-drugs-forte---primary.py
+inputModule28:
+  class: File
+  path: python/hormone-replacement-drugs-estriol---primary.py
+inputModule29:
+  class: File
+  path: python/hormone-replacement-drugs-dienestrol---primary.py
+inputModule30:
+  class: File
+  path: python/hormone-replacement-drugs-25mcg---primary.py
+inputModule31:
+  class: File
+  path: python/hormone-replacement-drugs-climaval---primary.py
+inputModule32:
+  class: File
+  path: python/hormone-replacement-drugs-24hour---primary.py
+inputModule33:
+  class: File
+  path: python/hormone-replacement-drugs-250microgram---primary.py
+inputModule34:
+  class: File
+  path: python/hormone-replacement-drugs-ovestin---primary.py
+inputModule35:
+  class: File
+  path: python/hormone-replacement-drugs-femapak---primary.py
+inputModule36:
+  class: File
+  path: python/hormone-replacement-drugs-fematrix---primary.py
+inputModule37:
+  class: File
+  path: python/hormone-replacement-drugs-adgyn---primary.py
+inputModule38:
+  class: File
+  path: python/hormone-replacement-drugs-40mcg---primary.py
+inputModule39:
+  class: File
+  path: python/premique-hormone-replacement-drugs---primary.py
+inputModule40:
+  class: File
+  path: python/hormone-replacement-drugs-ellesteduet---primary.py
+inputModule41:
+  class: File
+  path: python/hormone-replacement-drugs-indivina---primary.py
+inputModule42:
+  class: File
+  path: python/hormone-replacement-drugs-24hrs---primary.py
+inputModule43:
+  class: File
+  path: python/output-cases.py
